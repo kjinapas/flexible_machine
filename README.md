@@ -4,3 +4,6 @@
 ### Workpieces for bending test of flexible samples of the Faculty of Science, Department of Physics, Chiang Mai University.
 
 ![picture](picture/IMG_6953.JPG)
+![picture](picture/IMG_6954.JPG)
+![picture](picture/IMG_6959.JPG)
+
